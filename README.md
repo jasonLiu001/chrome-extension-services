@@ -2,5 +2,7 @@
 a restful api services with node.js for chrome-extension to call.
 
 
-# windows下node守护进程
+# start node app as a window service
 [windows-service](https://www.npmjs.com/package/windows-service)
+[node-windows](https://github.com/coreybutler/node-windows)
+
